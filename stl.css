@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    
+}
+.row img{
+    height: 150px;
+    width: 150px;
+    margin: 20px 0;
+    border-radius: 30px;
+}
+#collect .coll{ 
+    padding-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    margin-top: 30px;
+    color: rgb(53, 52, 52);
+}
+#collect .colle{
+    padding-bottom: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 1.8rem;
+    color: rgb(119, 117, 117);
+   
+}
+.row h3{
+    color: rgb(7, 6, 4);
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    line-height: 2rem;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+#collect{
+    text-align: center;
+    width: 80%;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(img/i/bgm.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search{
+    width: 300px;
+    height: 40px;
+}
+.left-section{
+    display: flex;
+}
+.right-sect{
+    display: flex;
+}
+.carousel img{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+hr{
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar-brand{
+    min-height: 12px;
+}
+#slider{
+    width: auto;
+    height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  text-align: center;
+  margin-bottom: 30px;
+  
+}
+.para{ 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 2px;
+
+
+}
+.about{
+    width: auto;
+    height: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+.about h1{
+    margin-top: 40px;
+    margin-bottom: 54px;
+}
+.aboutt{
+    display: inline;
+    margin-top: 80px;
+    text-align: center;
+
+}
+.left-about{
+    margin-bottom: 50px;
+    
+}
+.right-about{
+    margin-top: 20px;
+    
+}
+.ab{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 1.8rem;
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+
+}
+.ab{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 20px;
+    font-size: 1.8rem;
+    color: rgb(7, 3, 3);
+}
+
+.footr{
+    margin-bottom: 40px;
+    text-align: center;
+    size: 30px;
+    color: black;
+}
+.footr i{
+    margin: 20px;
+}
+.foo{
+    color: rgb(120, 122, 123);
+    font-size: small;
+    
+}
+.footr:hover{
+    color: brown;
+
+}
